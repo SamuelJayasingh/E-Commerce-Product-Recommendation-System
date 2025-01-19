@@ -79,6 +79,16 @@ You can install these dependencies using pip:
 pip install pandas numpy scikit-learn
 ```
 
+To install the dependencies listed in the `requirements.txt` file, you can use the following command:
+
+```sh
+pip install -r requirements.txt
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+⚠️ This project is solely for educational purposes to acquire knowledge about Collaborative Filtering and Singular Value Decomposition (SVD) for Collaborative Filtering.
